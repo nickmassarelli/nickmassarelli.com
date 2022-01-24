@@ -292,18 +292,13 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
-    mix-blend-mode: difference;
+    /* mix-blend-mode: difference; */
     z-index: 2;
   }
 
   .cursor-icon {
     position: absolute;
     opacity: 0;
-  }
-
-  .cursor-icon--prev,
-  .cursor-icon--next {
-    mix-blend-mode: difference;
   }
 
   .cursor-icon--prev path,
