@@ -19,3 +19,9 @@ This might take a minute. Once it's finished, you can run the following command 
 ```
 npm run dev
 ```
+
+> 💡 I'd recommend installing the [Classic Cache Killer](https://chrome.google.com/webstore/detail/classic-cache-killer/kkmknnnjliniefekpicbaaobdnjjikfp?hl=en) chrome extension and turning it on during development to avoid seeing stale versions of the site.
+
+## Updating the slider
+
+To update the slider, go to [src/\_data/slider.js](src/_data/slider.js) and modify the list of assets for the slider. Make sure to test your changes on the development server.
