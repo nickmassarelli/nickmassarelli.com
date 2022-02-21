@@ -7,7 +7,7 @@ module.exports = [
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/horizontal-img_01.jpg',
+      src: '/assets/image-slider/horizontal-images/horizontal-imgs_01.jpg',
       alt: '',
     },
   },
@@ -43,7 +43,7 @@ module.exports = [
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/vertical-images/vertical-imgs_04.jpg',
+      src: '/assets/image-slider/horizontal-images/horizontal-imgs_04.jpg',
       alt: '',
     },
   },
@@ -55,7 +55,7 @@ module.exports = [
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/vertical-images/vertical-imgs_05.jpg',
+      src: '/assets/image-slider/vertical-images/vertical-imgs_03.jpg',
       alt: '',
     },
   },
@@ -67,7 +67,7 @@ module.exports = [
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/vertical-images/vertical-imgs_06.jpg',
+      src: '/assets/image-slider/vertical-images/vertical-imgs_04.jpg',
       alt: '',
     },
   },
@@ -79,7 +79,7 @@ module.exports = [
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/horizontal-img_07.jpg',
+      src: '/assets/image-slider/horizontal-images/horizontal-imgs_07.jpg',
       alt: '',
     },
   },
@@ -91,7 +91,7 @@ module.exports = [
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/horizontal-img_08.jpg',
+      src: '/assets/image-slider/horizontal-images/horizontal-imgs_08.jpg',
       alt: '',
     },
   },
@@ -103,7 +103,7 @@ module.exports = [
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/horizontal-img_09.jpg',
+      src: '/assets/image-slider/horizontal-images/horizontal-imgs_09.jpg',
       alt: '',
     },
   },
@@ -115,7 +115,7 @@ module.exports = [
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/horizontal-img_10.jpg',
+      src: '/assets/image-slider/horizontal-images/horizontal-imgs_10.jpg',
       alt: '',
     },
   },
