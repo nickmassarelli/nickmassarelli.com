@@ -27,7 +27,7 @@ module.exports = [
   {
     caption: 'Image 3',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/vertical-imgs_03.jpg',
+      src: '/assets/image-slider/vertical-images/vertical-imgs_03.jpg',
       alt: '',
     },
     desktopImage: {
@@ -75,7 +75,7 @@ module.exports = [
   {
     caption: 'Image 7',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/vertical-imgs_07.jpg',
+      src: '/assets/image-slider/vertical-images/vertical-imgs_07.jpg',
       alt: '',
     },
     desktopImage: {
@@ -99,7 +99,7 @@ module.exports = [
   {
     caption: 'Image 9',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/vertical-imgs_09.jpg',
+      src: '/assets/image-slider/vertical-images/vertical-imgs_09.jpg',
       alt: '',
     },
     desktopImage: {
