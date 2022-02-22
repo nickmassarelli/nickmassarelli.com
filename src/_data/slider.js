@@ -3,11 +3,11 @@ module.exports = [
   {
     caption: 'Draft, Issue 02. <br>Image by Adam Whyte',
     mobileImage: {
-      src: '/assets/image-slider/img_01.jpg',
+      src: '/assets/image-slider/horizontal-images/img_01.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/img_01.jpg',
+      src: '/assets/image-slider/horizontal-images/img_01.jpg',
       alt: '',
     },
   },
@@ -15,11 +15,11 @@ module.exports = [
   {
     caption: 'Image 2',
     mobileImage: {
-      src: '/assets/image-slider/img_02.jpg',
+      src: '/assets/image-slider/horizontal-images/img_02.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/img_02.jpg',
+      src: '/assets/image-slider/horizontal-images/img_02.jpg',
       alt: '',
     },
   },
@@ -27,11 +27,11 @@ module.exports = [
   {
     caption: 'Image 3',
     mobileImage: {
-      src: '/assets/image-slider/img_03v.jpg',
+      src: '/assets/image-slider/horizontal-images/img_03v.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/img_03.jpg',
+      src: '/assets/image-slider/horizontal-images/img_03.jpg',
       alt: '',
     },
   },
@@ -39,11 +39,11 @@ module.exports = [
   {
     caption: 'Image 4',
     mobileImage: {
-      src: '/assets/image-slider/img_04.jpg',
+      src: '/assets/image-slider/horizontal-images/img_04.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/img_04.jpg',
+      src: '/assets/image-slider/horizontal-images/img_04.jpg',
       alt: '',
     },
   },
@@ -51,11 +51,11 @@ module.exports = [
   {
     caption: 'Image 5',
     mobileImage: {
-      src: '/assets/image-slider/img_05.jpg',
+      src: '/assets/image-slider/horizontal-images/img_05.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/img_05.jpg',
+      src: '/assets/image-slider/horizontal-images/img_05.jpg',
       alt: '',
     },
   },
@@ -63,11 +63,11 @@ module.exports = [
   {
     caption: 'Image 6',
     mobileImage: {
-      src: '/assets/image-slider/img_06.jpg',
+      src: '/assets/image-slider/horizontal-images/img_06.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/img_06.jpg',
+      src: '/assets/image-slider/horizontal-images/img_06.jpg',
       alt: '',
     },
   },
@@ -75,11 +75,11 @@ module.exports = [
   {
     caption: 'Image 7',
     mobileImage: {
-      src: '/assets/image-slider/img_07v.jpg',
+      src: '/assets/image-slider/horizontal-images/img_07v.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/img_07.jpg',
+      src: '/assets/image-slider/horizontal-images/img_07.jpg',
       alt: '',
     },
   },
@@ -87,11 +87,11 @@ module.exports = [
   {
     caption: 'Image 8',
     mobileImage: {
-      src: '/assets/image-slider/img_08.jpg',
+      src: '/assets/image-slider/horizontal-images/img_08.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/img_08.jpg',
+      src: '/assets/image-slider/horizontal-images/img_08.jpg',
       alt: '',
     },
   },
@@ -99,11 +99,11 @@ module.exports = [
   {
     caption: 'Image 9',
     mobileImage: {
-      src: '/assets/image-slider/img_09v.jpg',
+      src: '/assets/image-slider/horizontal-images/img_09v.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/img_09.jpg',
+      src: '/assets/image-slider/horizontal-images/img_09.jpg',
       alt: '',
     },
   },
@@ -111,11 +111,11 @@ module.exports = [
   {
     caption: 'Image 10',
     mobileImage: {
-      src: '/assets/image-slider/img_10.jpg',
+      src: '/assets/image-slider/horizontal-images/img_10.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/img_10.jpg',
+      src: '/assets/image-slider/horizontal-images/img_10.jpg',
       alt: '',
     },
   },
