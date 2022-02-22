@@ -3,7 +3,7 @@ module.exports = [
   {
     caption: 'Draft, Issue 02. <br>Image by Adam Whyte',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/img_01.jpg',
+      src: '/assets/image-slider/horizontal-images/horizontal-imgs_01.jpg',
       alt: '',
     },
     desktopImage: {
