@@ -1,7 +1,7 @@
 module.exports = [
   // Image 1
   {
-    caption: 'Draft, Issue 02. <br>Image by Adam Whyte',
+    caption: '',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_01.jpg',
       alt: '',
@@ -13,7 +13,7 @@ module.exports = [
   },
   // Image 2
   {
-    caption: 'Image 2',
+    caption: 'Source images are The Pigalle Duperré Basketball Court in Paris.',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_02.jpg',
       alt: '',
@@ -25,7 +25,7 @@ module.exports = [
   },
   // Image 3
   {
-    caption: 'Image 3',
+    caption: 'Retrospecta 43, Yale School of Architecture. Designed with Luiza Dale.',
     mobileImage: {
       src: '/assets/image-slider/vertical-images/img_03v.jpg',
       alt: '',
@@ -37,7 +37,7 @@ module.exports = [
   },
   // Image 4
   {
-    caption: 'Image 4',
+    caption: 'For From, Yale Photography Thesis Book 2021. Designed with Anna Sagström.',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_04.jpg',
       alt: '',
@@ -49,7 +49,7 @@ module.exports = [
   },
   // Image 5
   {
-    caption: 'Image 5',
+    caption: 'Draft, Issue 2, IOTA Editions, featuring work by Adam Whyte.',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_05.jpg',
       alt: '',
@@ -61,7 +61,7 @@ module.exports = [
   },
   // Image 6
   {
-    caption: 'Image 6',
+    caption: 'Retrospecta 43, Yale School of Architecture. Designed with Luiza Dale.',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_06.jpg',
       alt: '',
@@ -73,7 +73,7 @@ module.exports = [
   },
   // Image 7
   {
-    caption: 'Image 7',
+    caption: '',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_07.jpg',
       alt: '',
@@ -85,7 +85,7 @@ module.exports = [
   },
   // Image 8
   {
-    caption: 'Image 8',
+    caption: 'Background photograph by Sean Murray',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_08.jpg',
       alt: '',
@@ -97,7 +97,7 @@ module.exports = [
   },
   // Image 9
   {
-    caption: 'Image 9',
+    caption: 'For From, Yale Photography Thesis Book 2021. Designed with Anna Sagström.',
     mobileImage: {
       src: '/assets/image-slider/vertical-images/img_09v.jpg',
       alt: '',
@@ -109,7 +109,7 @@ module.exports = [
   },
   // Image 10
   {
-    caption: 'Image 10',
+    caption: '',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_10.jpg',
       alt: '',
@@ -121,7 +121,7 @@ module.exports = [
   },
   // Image 11
     {
-      caption: 'Image 10',
+      caption: 'Designed with Anna Sagström.',
       mobileImage: {
         src: '/assets/image-slider/horizontal-images/img_11.jpg',
         alt: '',
@@ -133,7 +133,7 @@ module.exports = [
     },
   // Image 12
   {
-    caption: 'Image 10',
+    caption: '',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_12.jpg',
       alt: '',
@@ -145,7 +145,7 @@ module.exports = [
   },
   // Image 13
   {
-    caption: 'Image 10',
+    caption: '',
     mobileImage: {
       src: '/assets/image-slider/vertical-images/img_13v.jpg',
       alt: '',
@@ -157,7 +157,7 @@ module.exports = [
   },
   // Image 14
   {
-    caption: 'Image 10',
+    caption: 'Bullet Tyeface, Q.',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_14.jpg',
       alt: '',
@@ -169,7 +169,7 @@ module.exports = [
   },
   // Image 15
   {
-    caption: 'Image 10',
+    caption: 'Photographs by Ian Shiver, published by IOTA Editions.',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_15.jpg',
       alt: '',
@@ -181,7 +181,7 @@ module.exports = [
   },
   // Image 16
   {
-    caption: 'Image 10',
+    caption: '',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_16.jpg',
       alt: '',
@@ -193,7 +193,7 @@ module.exports = [
   },
   // Image 17
   {
-    caption: 'Image 10',
+    caption: 'Red abstraction sourced from the artist',
     mobileImage: {
       src: '/assets/image-slider/vertical-images/img_17v.jpg',
       alt: '',
@@ -205,7 +205,7 @@ module.exports = [
   },
   // Image 18
   {
-    caption: 'Image 10',
+    caption: 'First Last, Issue 07.',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_18.jpg',
       alt: '',
@@ -217,7 +217,7 @@ module.exports = [
   },
   // Image 19
   {
-    caption: 'Image 10',
+    caption: 'For From, Yale Photography Thesis Book 2021. Designed with Anna Sagström.',
     mobileImage: {
       src: '/assets/image-slider/vertical-images/img_19v.jpg',
       alt: '',
@@ -229,7 +229,7 @@ module.exports = [
   },
   // Image 20
   {
-    caption: 'Image 10',
+    caption: 'First Last, Issue 06.',
     mobileImage: {
       src: '/assets/image-slider/vertical-images/img_20v.jpg',
       alt: '',
@@ -241,7 +241,7 @@ module.exports = [
   },
   // Image 21
   {
-    caption: 'Image 10',
+    caption: '',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_21.jpg',
       alt: '',
@@ -253,7 +253,7 @@ module.exports = [
   },
   // Image 22
   {
-    caption: 'Image 10',
+    caption: 'Designed with Anna Sagström.',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_22.jpg',
       alt: '',
@@ -265,7 +265,7 @@ module.exports = [
   },
   // Image 23
   {
-    caption: 'Image 10',
+    caption: '',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_23.jpg',
       alt: '',
@@ -277,7 +277,7 @@ module.exports = [
   },
   // Image 24
   {
-    caption: 'Image 10',
+    caption: '',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/img_24.jpg',
       alt: '',
@@ -289,7 +289,7 @@ module.exports = [
   },
   // Image 25
   {
-    caption: 'Image 10',
+    caption: '',
     mobileImage: {
       src: '/assets/image-slider/vertical-images/img_25v.jpg',
       alt: '',
