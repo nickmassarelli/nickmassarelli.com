@@ -72,7 +72,7 @@ button {
 }
 
 .header {
-  font-style: italic;
+  /* font-style: italic; */
   margin-bottom: 20px;
   margin-top: 40px;
 }
