@@ -8,6 +8,8 @@
 html,
 body {
   background-color: #788126;
+  /* background-color: orangered; */
+  /* background-color: silver; */
   font-family: Helvetica Neue, helvetica;
   margin: 0;
   font-size: 25px;
@@ -286,7 +288,7 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* mix-blend-mode: difference; */
+    mix-blend-mode: difference;
     z-index: 2;
   }
 
