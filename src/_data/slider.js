@@ -3,11 +3,11 @@ module.exports = [
   {
     caption: '',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/img_01.jpg',
+      src: '/assets/image-slider/horizontal-images/img_26.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_01.jpg',
+      src: '/assets/image-slider/horizontal-images/img_26.jpg',
       alt: '',
     },
   },
