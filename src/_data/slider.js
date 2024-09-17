@@ -3,11 +3,11 @@ module.exports = [
   {
     caption: '',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/img_26.jpg',
+      src: '/assets/image-slider/horizontal-images/img_01.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_26.jpg',
+      src: '/assets/image-slider/horizontal-images/img_01.jpg',
       alt: '',
     },
   },
@@ -296,6 +296,18 @@ module.exports = [
     },
     desktopImage: {
       src: '/assets/image-slider/horizontal-images/img_25.jpg',
+      alt: '',
+    },
+  },
+  // Image 26
+  {
+    caption: '',
+    mobileImage: {
+      src: '/assets/image-slider/horizontal-images/img_26.jpg',
+      alt: '',
+    },
+    desktopImage: {
+      src: '/assets/image-slider/horizontal-images/img_26.jpg',
       alt: '',
     },
   },
