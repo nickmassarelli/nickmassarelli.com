@@ -3,71 +3,71 @@ module.exports = [
   {
     caption: '',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/img_01.jpg',
+      src: '/assets/image-slider/horizontal-images/image-001.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_01.jpg',
+      src: '/assets/image-slider/horizontal-images/image-001.jpg',
       alt: '',
     },
   },
   // Image 2
   {
-    caption: 'Source images: Pigalle Duperré Basketball Court in Paris.',
+    caption: '',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/img_02.jpg',
+      src: '/assets/image-slider/horizontal-images/image-002.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_02.jpg',
+      src: '/assets/image-slider/horizontal-images/image-002.jpg',
       alt: '',
     },
   },
   // Image 3
   {
-    caption: 'Retrospecta 43, designed with Luiza Dale.',
+    caption: '',
     mobileImage: {
-      src: '/assets/image-slider/vertical-images/img_03v.jpg',
+      src: '/assets/image-slider/vertical-images/image-003.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_03.jpg',
+      src: '/assets/image-slider/horizontal-images/image-003.jpg',
       alt: '',
     },
   },
   // Image 4
   {
-    caption: 'Yale Photo Thesis Book, designed with Anna Sagström.',
+    caption: '',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/img_04.jpg',
+      src: '/assets/image-slider/horizontal-images/image-004.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_04.jpg',
+      src: '/assets/image-slider/horizontal-images/image-004.jpg',
       alt: '',
     },
   },
   // Image 5
   {
-    caption: 'Draft by IOTA Editions.',
+    caption: '',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/img_05.jpg',
+      src: '/assets/image-slider/horizontal-images/image-005.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_05.jpg',
+      src: '/assets/image-slider/horizontal-images/image-005.jpg',
       alt: '',
     },
   },
   // Image 6
   {
-    caption: 'Retrospecta 43, designed with Luiza Dale.',
+    caption: '',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/img_06.jpg',
+      src: '/assets/image-slider/horizontal-images/image-006.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_06.jpg',
+      src: '/assets/image-slider/horizontal-images/image-006.jpg',
       alt: '',
     },
   },
@@ -75,35 +75,35 @@ module.exports = [
   {
     caption: '',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/img_07.jpg',
+      src: '/assets/image-slider/horizontal-images/image-007.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_07.jpg',
+      src: '/assets/image-slider/horizontal-images/image-007.jpg',
       alt: '',
     },
   },
   // Image 8
   {
-    caption: 'Background image by Sean Murray',
+    caption: '',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/img_08.jpg',
+      src: '/assets/image-slider/horizontal-images/image-008.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_08.jpg',
+      src: '/assets/image-slider/horizontal-images/image-008.jpg',
       alt: '',
     },
   },
   // Image 9
   {
-    caption: 'Yale Photo Thesis Book, designed with Anna Sagström.',
+    caption: '',
     mobileImage: {
-      src: '/assets/image-slider/vertical-images/img_09v.jpg',
+      src: '/assets/image-slider/vertical-images/image-009.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_09.jpg',
+      src: '/assets/image-slider/horizontal-images/image-009.jpg',
       alt: '',
     },
   },
@@ -111,23 +111,23 @@ module.exports = [
   {
     caption: '',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/img_10.jpg',
+      src: '/assets/image-slider/horizontal-images/image-010.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_10.jpg',
+      src: '/assets/image-slider/horizontal-images/image-010.jpg',
       alt: '',
     },
   },
   // Image 11
     {
-      caption: 'Designed with Anna Sagström.',
+      caption: '',
       mobileImage: {
-        src: '/assets/image-slider/horizontal-images/img_11.jpg',
+        src: '/assets/image-slider/horizontal-images/image-011.jpg',
         alt: '',
       },
       desktopImage: {
-        src: '/assets/image-slider/horizontal-images/img_11.jpg',
+        src: '/assets/image-slider/horizontal-images/image-011.jpg',
         alt: '',
       },
     },
@@ -135,11 +135,11 @@ module.exports = [
   {
     caption: '',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/img_12.jpg',
+      src: '/assets/image-slider/horizontal-images/image-012.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_12.jpg',
+      src: '/assets/image-slider/horizontal-images/image-012.jpg',
       alt: '',
     },
   },
@@ -147,35 +147,35 @@ module.exports = [
   {
     caption: '',
     mobileImage: {
-      src: '/assets/image-slider/vertical-images/img_13v.jpg',
+      src: '/assets/image-slider/vertical-images/image-013.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_13.jpg',
+      src: '/assets/image-slider/horizontal-images/image-013.jpg',
       alt: '',
     },
   },
   // Image 14
   {
-    caption: 'Bullet Tyeface.',
+    caption: '',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/img_14.jpg',
+      src: '/assets/image-slider/horizontal-images/image-014.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_14.jpg',
+      src: '/assets/image-slider/horizontal-images/image-014.jpg',
       alt: '',
     },
   },
   // Image 15
   {
-    caption: 'Images by Ian Shiver, published by IOTA Editions.',
+    caption: '',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/img_15.jpg',
+      src: '/assets/image-slider/horizontal-images/image-015.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/img_15.jpg',
+      src: '/assets/image-slider/horizontal-images/image-015.jpg',
       alt: '',
     },
   },
