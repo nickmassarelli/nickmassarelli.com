@@ -1,7 +1,7 @@
 module.exports = [
   // Image 1
   {
-    caption: '',
+    caption: 'The Wants',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/image-001.jpg',
       alt: '',
@@ -25,7 +25,7 @@ module.exports = [
   },
   // Image 3
   {
-    caption: '',
+    caption: 'Images by Dylan Pearce',
     mobileImage: {
       src: '/assets/image-slider/vertical-images/image-003.jpg',
       alt: '',
@@ -109,7 +109,7 @@ module.exports = [
   },
   // Image 10
   {
-    caption: '',
+    caption: 'Event at YOWIE',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/image-010.jpg',
       alt: '',
@@ -133,7 +133,7 @@ module.exports = [
     },
   // Image 12
   {
-    caption: '',
+    caption: 'With Luiza Dale / Images by Mickey Aloisio',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/image-012.jpg',
       alt: '',
