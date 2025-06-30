@@ -3,11 +3,11 @@ module.exports = [
   {
     caption: 'The Wants',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/image-001.jpg',
+      src: '/assets/image-slider/horizontal-images/image-001_v.jpg',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/image-001_v.jpg',
+      src: '/assets/image-slider/horizontal-images/image-001.jpg',
       alt: '',
     },
   },
@@ -27,7 +27,7 @@ module.exports = [
   {
     caption: 'Images by Dylan Pearce',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/image-003.jpg',
+      src: '/assets/image-slider/horizontal-images/image-003_v.jpg',
       alt: '',
     },
     desktopImage: {
@@ -75,7 +75,7 @@ module.exports = [
   {
     caption: '',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/image-007.jpg',
+      src: '/assets/image-slider/horizontal-images/image-007_v.jpg',
       alt: '',
     },
     desktopImage: {
@@ -135,7 +135,7 @@ module.exports = [
   {
     caption: 'With Luiza Dale / Images by Mickey Aloisio',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/image-012.jpg',
+      src: '/assets/image-slider/horizontal-images/image-012_v.jpg',
       alt: '',
     },
     desktopImage: {
@@ -176,6 +176,42 @@ module.exports = [
     },
     desktopImage: {
       src: '/assets/image-slider/horizontal-images/image-015.jpg',
+      alt: '',
+    },
+  },
+  // Image 16
+  {
+    caption: '',
+    mobileImage: {
+      src: '/assets/image-slider/horizontal-images/image-016_v.jpg',
+      alt: '',
+    },
+    desktopImage: {
+      src: '/assets/image-slider/horizontal-images/image-016.jpg',
+      alt: '',
+    },
+  },
+  // Image 17
+  {
+    caption: '',
+    mobileImage: {
+      src: '/assets/image-slider/horizontal-images/image-017.jpg',
+      alt: '',
+    },
+    desktopImage: {
+      src: '/assets/image-slider/horizontal-images/image-017.jpg',
+      alt: '',
+    },
+  },
+  // Image 18
+  {
+    caption: '',
+    mobileImage: {
+      src: '/assets/image-slider/horizontal-images/image-018.jpg',
+      alt: '',
+    },
+    desktopImage: {
+      src: '/assets/image-slider/horizontal-images/image-018.jpg',
       alt: '',
     },
   },
