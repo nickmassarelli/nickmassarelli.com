@@ -7,7 +7,7 @@ module.exports = [
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/image-001.jpg',
+      src: '/assets/image-slider/horizontal-images/image-001_v.jpg',
       alt: '',
     },
   },
@@ -27,7 +27,7 @@ module.exports = [
   {
     caption: 'Images by Dylan Pearce',
     mobileImage: {
-      src: '/assets/image-slider/vertical-images/image-003.jpg',
+      src: '/assets/image-slider/horizontal-images/image-003.jpg',
       alt: '',
     },
     desktopImage: {
@@ -99,7 +99,7 @@ module.exports = [
   {
     caption: '',
     mobileImage: {
-      src: '/assets/image-slider/vertical-images/image-009.jpg',
+      src: '/assets/image-slider/horizontal-images/image-009.jpg',
       alt: '',
     },
     desktopImage: {
@@ -147,7 +147,7 @@ module.exports = [
   {
     caption: '',
     mobileImage: {
-      src: '/assets/image-slider/vertical-images/image-013.jpg',
+      src: '/assets/image-slider/horizontal-images/image-013.jpg',
       alt: '',
     },
     desktopImage: {
