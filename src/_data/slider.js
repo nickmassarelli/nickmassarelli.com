@@ -217,7 +217,7 @@ module.exports = [
   },
   // Image 19
   {
-    caption: '',
+    caption: 'Photos by Tag Christof',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/image-019_v.jpg',
       alt: '',
@@ -229,7 +229,7 @@ module.exports = [
   },
   // Image 20
   {
-    caption: '',
+    caption: 'Photo by Sean Murray',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/image-020.jpg',
       alt: '',
@@ -241,7 +241,7 @@ module.exports = [
   },
   // Image 21
   {
-    caption: '',
+    caption: 'Photo by Sean Murray',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/image-021.jpg',
       alt: '',
@@ -289,7 +289,7 @@ module.exports = [
   },
   // Image 25
   {
-    caption: '',
+    caption: 'Photo by Sean Murray',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/image-025.jpg',
       alt: '',
@@ -313,7 +313,7 @@ module.exports = [
   },
   // Image 27
   {
-    caption: '',
+    caption: 'Designed with Actual Source',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/image-027_v.jpg',
       alt: '',
@@ -325,7 +325,7 @@ module.exports = [
   },
   // Image 28
   {
-    caption: '',
+    caption: 'Designed with Actual Source',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/image-028.jpg',
       alt: '',
@@ -337,7 +337,7 @@ module.exports = [
   },
   // Image 29
   {
-    caption: '',
+    caption: 'Designed with Actual Source',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/image-029_v.jpg',
       alt: '',
@@ -349,7 +349,7 @@ module.exports = [
   },
   // Image 30
   {
-    caption: '',
+    caption: 'Photo by Sean Murray',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/image-030.jpg',
       alt: '',
@@ -361,7 +361,7 @@ module.exports = [
   },
   // Image 31
   {
-    caption: '',
+    caption: 'Designed with Actual Source',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/image-031_v.jpg',
       alt: '',
@@ -445,7 +445,7 @@ module.exports = [
   },
   // Image 38
   {
-    caption: '',
+    caption: 'Lost and Safe by Dylan Pearce',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/image-038.jpg',
       alt: '',
@@ -565,7 +565,7 @@ module.exports = [
   },
   // Image 48
   {
-    caption: '',
+    caption: 'Photo by Sean Murray',
     mobileImage: {
       src: '/assets/image-slider/horizontal-images/image-048.jpg',
       alt: '',
