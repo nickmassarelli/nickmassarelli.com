@@ -599,4 +599,18 @@ module.exports = [
       alt: '',
     },
   },
+
+    // Image 51
+  {
+    caption: '',
+    mobileImage: {
+      src: '/assets/image-slider/horizontal-images/image-051_v.jpg',
+      alt: '',
+    },
+    desktopImage: {
+      src: '/assets/image-slider/horizontal-images/image-051.jpg',
+      alt: '',
+    },
+  },
+
 ]
