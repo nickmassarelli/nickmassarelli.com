@@ -604,11 +604,11 @@ module.exports = [
   {
     caption: '',
     mobileImage: {
-      src: '/assets/image-slider/horizontal-images/image-051_v.jpg',
+      src: '/assets/image-slider/horizontal-images/image-051_v.gif',
       alt: '',
     },
     desktopImage: {
-      src: '/assets/image-slider/horizontal-images/image-051.jpg',
+      src: '/assets/image-slider/horizontal-images/image-051.gif',
       alt: '',
     },
   },
